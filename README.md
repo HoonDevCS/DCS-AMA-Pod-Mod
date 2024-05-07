@@ -4,11 +4,11 @@ T/H Simulations DCS F-16 AMA Pod
 ### **AMA Pod** 
 
 
-**Including 3 Liveries:**
- - Orange (Denmark) 
- - Blue (Netherlands)
- - Blue No Fins (Netherlands)
- - Gray (Belgium + Denmark)
+**Including 4 Liveries:**
+ - Orange (RDAF + RNoAF) 
+ - Blue (RNLAF)
+ - Blue No Fins (RNLAF)
+ - Grey (BAF + RDAF + RNoAF)
 
 **Credits:**
 - Model: Hoon
