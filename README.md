@@ -9,6 +9,6 @@ Tango-17 / Hoon DCS F-16 AMA Pod
  - Gray (Belgium + Denmark)
 
 **Credits:**
-Model: Hoon
-Scripting: Tango-17
-**And special thanks to:** Roughmaster for textures
+-Model: Hoon
+-Scripting: Tango-17
+-**And special thanks to:** Roughmaster for textures
