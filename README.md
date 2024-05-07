@@ -6,8 +6,8 @@ T/H Simulations DCS F-16 AMA Pod
 
 **Including 3 Liveries:**
  - Orange (Denmark) 
- - Blue with fins (Netherlands)
- - Blue without fins (Netherlands)
+ - Blue (Netherlands)
+ - Blue No Fins (Netherlands)
  - Gray (Belgium + Denmark)
 
 **Credits:**
