@@ -1,6 +1,6 @@
 # DCS-AMA-Pod-Mod
-Tango-17 / Hoon DCS F-16 AMA Pod
-![image](https://github.com/HoonDevCS/DCS-AMA-Pod-Mod/assets/169178687/d6b155f6-ba51-40a2-8d0d-d86343de1cd5)
+T/H Simulations DCS F-16 AMA Pod
+![image](https://github.com/HoonDevCS/DCS-AMA-Pod-Mod/assets/169178687/85e97439-f1fa-49a8-9da4-b2237bcb08c0)
 ### **AMA Pod** 
 
 
