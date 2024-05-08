@@ -14,3 +14,5 @@ T/H Simulations DCS F-16 AMA Pod
 - Model: Hoon
 - Scripting: Tango-17
 - **And special thanks to:** Roughmaster for textures
+
+**T/H Simulations Discord Server**
