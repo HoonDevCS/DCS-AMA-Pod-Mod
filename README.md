@@ -16,4 +16,4 @@ T/H Simulations DCS F-16 AMA Pod
 - **And special thanks to:** Roughmaster for textures
 
 **T/H Simulations Discord Server:**
-https://discord.gg/ga7WzCk3
+https://discord.gg/UfDRhqN69v
