@@ -1,6 +1,6 @@
 # DCS-AMA-Pod-Mod
 T/H Simulations DCS F-16 AMA Pod
-![image](https://github.com/HoonDevCS/DCS-AMA-Pod-Mod/assets/169178687/51fac7b8-9456-4ddb-bd3f-53ac3510cd9b)
+![image](https://github.com/HoonDevCS/DCS-AMA-Pod-Mod/assets/169178687/d0d9f638-325a-49e9-9f18-32e5cd2fe591)
 ### **AMA Pod** 
 The Acceleration Monitor Assembly (or AMA for short) is a pod for the F-16 which increases the Radar Cross Section of the aircraft for training. 
 However this mod is (currently) visual only. 
