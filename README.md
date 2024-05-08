@@ -15,4 +15,5 @@ T/H Simulations DCS F-16 AMA Pod
 - Scripting: Tango-17
 - **And special thanks to:** Roughmaster for textures
 
-**T/H Simulations Discord Server**
+**T/H Simulations Discord Server:**
+https://discord.gg/ga7WzCk3
