@@ -16,5 +16,7 @@ However this mod is (currently) visual only.
 - Scripting: Tango-17
 - **And special thanks to:** Roughmaster for textures
 
+DO NOT REDISTRIBUTE THIS MOD!
+
 **T/H Simulations Discord Server:**
 https://discord.gg/UfDRhqN69v
