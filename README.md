@@ -20,6 +20,3 @@ DO NOT REDISTRIBUTE THIS MOD WITHOUT PERMISSION!
 
 **T/H Simulations Discord Server:**
 https://discord.gg/UfDRhqN69v
-
-
-**DO NOT DISTRIBUTE!**
