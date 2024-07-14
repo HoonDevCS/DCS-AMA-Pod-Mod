@@ -1,5 +1,5 @@
 # DCS-AMA-Pod-Mod
-Horntail DCS F-16 AMA Pod
+Horntail Designs DCS F-16 AMA Pod
 ![image](https://github.com/HoonDevCS/DCS-AMA-Pod-Mod/assets/169178687/d0d9f638-325a-49e9-9f18-32e5cd2fe591)
 ### **AMA Pod** 
 The Acceleration Monitor Assembly (or AMA for short) is a pod for the F-16 which increases the Radar Cross Section of the aircraft for training. 
@@ -18,5 +18,5 @@ However this mod is (currently) visual only.
 
 **DO NOT REDISTRIBUTE THIS MOD WITHOUT PERMISSION!**
 
-**Horntail Discord Server:**
+**Horntail Designs Discord Server:**
 https://discord.gg/UfDRhqN69v
