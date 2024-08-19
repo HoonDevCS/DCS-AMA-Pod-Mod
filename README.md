@@ -19,4 +19,4 @@ However this mod is (currently) visual only.
 **DO NOT REDISTRIBUTE THIS MOD WITHOUT PERMISSION!**
 
 **Horntail Designs Discord Server:**
-https://discord.gg/UfDRhqN69v
+[https://discord.gg/P5NPsY5DjV
